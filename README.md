@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://diegocixyz.github.io/Tec-Doc-FFC/)
 
 
 ## Getting Started
@@ -45,14 +45,14 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Diego Alfonso Camargo Ibarra**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
+- GitHub: [@DiegociXYZ](https://github.com/DiegociXYZ)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/DiegociXYZ/Tec-Doc-FFC/issues/).
 
 ## Show your support
 
